@@ -1,1 +1,6 @@
-print("hey aaaaaaaaaaaaaaaaaaaaaaaaaa")
+
+def main():
+    print("Hello World")
+
+
+main()
