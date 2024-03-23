@@ -1,1 +1,1 @@
-print("wrjykjwtyketykewtyketyketyk aaaaaaaaaaaaaaaaaaaaaaaaaa")
+print("dima ne bombi aaaaaaaaaaaaaaaaaaaaaaaaaa")
